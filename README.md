@@ -1,8 +1,16 @@
-# React + Vite
+# Parsel & Parcel House
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Un eCommerce mágico y encantador.**
 
-Currently, two official plugins are available:
+## Tecnologías
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
+- Framer Motion
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalación
+1. Clona este repositorio.
+2. Instala las dependencias:
+   ```bash
+   npm install
